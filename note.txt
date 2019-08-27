@@ -1,0 +1,3 @@
+Place the audio file of the PXL2000 cassette contents in here as "input.raw".  It should be in RAW (headerless) format.
+
+The sample rate should be 96 kHz and the bit depth should be 8-bit (not 16 bit).
